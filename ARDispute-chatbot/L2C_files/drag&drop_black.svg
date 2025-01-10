@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_drag&amp;drop</title>
+    <g id="L2C-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_drag&amp;drop">
+            <rect id="background" fill="#FFFFFF" x="0" y="0" width="16" height="16"></rect>
+            <path d="M6,13 L6,15 C5.44771525,15 5,14.5522847 5,14 L5,13 L6,13 Z M15,14 C15,14.5522847 14.5522847,15 14,15 L13,15 L13,14 L15,14 Z M12,14 L12,15 L10,15 L10,14 L12,14 Z M9,14 L9,15 L7,15 L7,14 L9,14 Z M15,11 L15,13 L14,13 L14,11 L15,11 Z M15,8 L15,10 L14,10 L14,8 L15,8 Z M14,5 C14.5522847,5 15,5.44771525 15,6 L15,7 L14,7 L14,5 Z M13,5 L13,6 L11,6 L11,5 L13,5 Z M7.73223305,7.52512627 L10.6214714,10.4143646 L10.6214714,8.58578644 L11.6213203,8.58578644 L11.6213203,12.1213203 L8.08578644,12.1213203 L8.08578644,11.1214714 L9.91436457,11.1214714 L7.02512627,8.23223305 L7.73223305,7.52512627 Z M9,2 C9.55228475,2 10,2.44771525 10,3 L10,7 L9,7 L9,3 L3,3 L3,11 L7,11 L7,12 L3,12 C2.44771525,12 2,11.5522847 2,11 L2,3 C2,2.44771525 2.44771525,2 3,2 L9,2 Z M6,8 L6,9 L4,9 L4,8 L6,8 Z M8,5 L8,6 L4,6 L4,5 L8,5 Z" id="Combined-Shape" fill="#171717"></path>
+        </g>
+    </g>
+</svg>
